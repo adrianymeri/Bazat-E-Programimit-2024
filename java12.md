@@ -1,4 +1,4 @@
-# Bazat e Programimit - Java 13
+# Bazat e Programimit - Java 12
 
 ---
 
